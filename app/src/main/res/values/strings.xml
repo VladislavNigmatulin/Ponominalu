@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PonominaluTest</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- storage info-->
+    <string name="str_name_folder">/Ponominalu/</string>
+    <string name="str_name_database">ponominalu.sqlite</string>
+
+    <!-- key for intents extra-->
+    <string name="str_extra_categoryId">CategoryId</string>
+    <string name="str_extra_eventId">EventId</string>
+
+    <!-- URL strings -->
+    <string name="str_url_main">https://api.cultserv.ru</string>
+    <string name="str_url_image">http://media.cultserv.ru</string>
+
+    <!-- system titles -->
+    <string name="str_text_dates">Дата:</string>
+    <string name="str_text_time">Время:</string>
+    <string name="str_text_description">Описание:</string>
+
+    <string name="str_alerdialog_message">Вы уверены, что хотите выти?</string>
+    <string name="str_alertdialog_title">Выход из приложения</string>
+
+    <string name="str_progressdialog_message">Пожалуста подождите, идет загрузка...</string>
+    <string name="str_network_error">Ошибка подключения к интернету.</string>
+
+    <string name="str_btn_yes">Да</string>
+    <string name="str_btn_no">Нет</string>
+</resources>
